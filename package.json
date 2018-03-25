@@ -1,0 +1,13 @@
+{
+    "name": "@airteam/prettier-config",
+    "version": "0.0.1",
+    "description": "AirTeam Prettier config",
+    "keywords": ["prettier", "config", "airteam"],
+    "main": "index.js",
+    "repository": "git@github.com:airteamaus/prettier-config-airteam.git",
+    "author": "James Wyse <james@airteam.com.au>",
+    "license": "MIT",
+    "peerDependencies": {
+        "prettier": ">= 1.11"
+    }
+}
